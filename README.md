@@ -6,6 +6,7 @@ members
 3. 641310524 วิชญะ อ่อนเกตุพล :Artist https://github.com/ErrorB16
 
 To Do List
-Pre
-- GDD
-- Mock up Screen
+ก่อนPush คุยกันก่อน 
+
+วันนี้ทำอะไร
+
