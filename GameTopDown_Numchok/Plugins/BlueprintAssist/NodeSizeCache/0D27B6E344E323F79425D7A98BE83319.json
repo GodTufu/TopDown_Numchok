@@ -92,6 +92,273 @@
 					}
 				}
 			}
+		},
+		"/Game/BP_Object/BP_TrapSwing":
+		{
+			"graphData":
+			{
+				"E61B45AF47463F3ABCDA9D9CAA6FF464":
+				{
+					"nodeData":
+					{
+						"A92A4CC049C3F91EB0D236B5A06F9311":
+						{
+							"cachedNodeSize":
+							{
+								"x": 269.39999389648438,
+								"y": 127
+							},
+							"cachedPins":
+							{
+								"6B98027648B50DC4B97FFD9726C21182": 43,
+								"EA97C46D483B83824C50C1BD1B5F70A6": 74,
+								"86101D174AA3C0470E0A2E99664F7F7E": 106.5,
+								"13F1B57F41BE2CA4948FAF85BDC8C683": 43,
+								"F9B04BCD4E71A0BAF2E0BA80624EACFF": 74
+							}
+						},
+						"363600204268EEC8F736E29E51D3CC50":
+						{
+							"cachedNodeSize":
+							{
+								"x": 125,
+								"y": 95
+							},
+							"cachedPins":
+							{
+								"8170D4634F1216D86894A9A13BE7B5B9": 13.5,
+								"06B9D0A0493964B9F0DB6BB11F868D14": 46,
+								"0AC4D1734B15E515E1A5719BAEF477FE": 77
+							}
+						},
+						"6669D17142595F1EDA09BCAAE8FCBE14":
+						{
+							"cachedNodeSize":
+							{
+								"x": 230.39999389648438,
+								"y": 97
+							},
+							"cachedPins":
+							{
+								"208290624B01166F48D52894F167B232": 43,
+								"039911704C7DCDD262FCF9A2614E4ED5": 76.5,
+								"6683B74846B1F036766F2AB8C31D443B": 43
+							}
+						},
+						"17811D2642E52BD07E9802B00164AD9A":
+						{
+							"cachedNodeSize":
+							{
+								"x": 240,
+								"y": 263
+							},
+							"cachedPins":
+							{
+								"BAD4E8CC4C7EA949A8442B8C4E6CE7CF": 49,
+								"F89FCF0F4404413C46BA96A3DF1BCF14": 81,
+								"66D40D2D4D5511BBF046FC9F49ECA189": 113,
+								"C034027D4D78FE30DA2A6D99C0892BC4": 145,
+								"748ED1044CC5589D0076AB8339B300CE": 177,
+								"609DE5674F0FB26CB6AD97A5E5B7A93C": 209,
+								"1959BE2F41A2992F6E91EFADF1DD7757": 242.5,
+								"D502855E4AF603628DF87E8478E7933A": 49,
+								"1FD9D47A4931E514E09078A786C801D8": 81,
+								"92AA34594E72EFCF76A04E9E62F3EECE": 112
+							}
+						}
+					}
+				},
+				"B575850642FA55907F9B68A62731694A":
+				{
+					"nodeData":
+					{
+						"208421184D8F4471B04FE1B4D808F5BF":
+						{
+							"cachedNodeSize":
+							{
+								"x": 285,
+								"y": 195
+							},
+							"cachedPins":
+							{
+								"719C2B264CEFA6FC81ABEEA55C5906DE": 59,
+								"DC211EED467A0EC6BF9ED2BF9BC164B8": 90,
+								"0FCD5DEE48E0EE6090B3F183C9F78004": 131.5,
+								"B577A2854AB782A366A9588EB75D56C6": 175,
+								"D14FD72543E357DB33A63EAD80F91060": 59
+							}
+						},
+						"EB9A50254697A97962D9C688ABE2B296":
+						{
+							"cachedNodeSize":
+							{
+								"x": 160,
+								"y": 38
+							},
+							"cachedPins":
+							{
+								"802291F14D4520FA0DD6B9B805DD62A4": 19
+							}
+						},
+						"F78BB9DA4DA346DC3B32358C850290DF":
+						{
+							"cachedNodeSize":
+							{
+								"x": 285,
+								"y": 172
+							},
+							"cachedPins":
+							{
+								"719C2B264CEFA6FC81ABEEA55C5906DE": 59,
+								"DC211EED467A0EC6BF9ED2BF9BC164B8": 90,
+								"0FCD5DEE48E0EE6090B3F183C9F78004": 120,
+								"B577A2854AB782A366A9588EB75D56C6": 152,
+								"D14FD72543E357DB33A63EAD80F91060": 59
+							}
+						},
+						"49C980F34934BF3AEA8D0180553E38D9":
+						{
+							"cachedNodeSize":
+							{
+								"x": 160,
+								"y": 38
+							},
+							"cachedPins":
+							{
+								"802291F14D4520FA0DD6B9B805DD62A4": 19
+							}
+						},
+						"8AE466B9489D00194F73EBA367D2E3D8":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 38
+							},
+							"cachedPins":
+							{
+								"50C71B05456FE1C0F1A26FB36D4098C3": 19
+							}
+						},
+						"756D2CD4416F692D6A6C278474463EAD":
+						{
+							"cachedNodeSize":
+							{
+								"x": 178,
+								"y": 62
+							},
+							"cachedPins":
+							{
+								"D2A569E54A9CE2B24C961D9AA4D19329": 43
+							}
+						},
+						"5043114A417628D100FED6A923802EA5":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 38
+							},
+							"cachedPins":
+							{
+								"E402AEAC496EDEC5A95294BE7ED76A1A": 19
+							}
+						}
+					}
+				},
+				"5D2D106042D9E1BE60DE41AD09355BB0":
+				{
+					"nodeData":
+					{
+					}
+				},
+				"01BE3332475AB199E5C617935991654E":
+				{
+					"nodeData":
+					{
+						"E0C1898144CCD62B8D8D789144AAB910":
+						{
+							"cachedNodeSize":
+							{
+								"x": 285,
+								"y": 195
+							},
+							"cachedPins":
+							{
+								"7338193F4470B475DB29ABBDC20890E3": 59,
+								"9D9E44284A17C30C9D2CAAB909577D3A": 90,
+								"D26A70E8440A8095A4E3E99E6B340343": 131.5,
+								"24DD4E634D776AFDBB3EB0882877C01A": 175,
+								"65B08B1643337EA3F2DA9E80A9008B25": 59
+							}
+						},
+						"0D78219F479E676528377487F023CB12":
+						{
+							"cachedNodeSize":
+							{
+								"x": 160,
+								"y": 38
+							},
+							"cachedPins":
+							{
+								"E900635146F16396C62DC19FA8431381": 19
+							}
+						},
+						"C420D57647DA899FB934F5AC0A2D2333":
+						{
+							"cachedNodeSize":
+							{
+								"x": 178,
+								"y": 62
+							},
+							"cachedPins":
+							{
+								"109405F547B90056DEE834A3E72AA57C": 43
+							}
+						},
+						"10B030614044F3B4D886E08751AE53CF":
+						{
+							"cachedNodeSize":
+							{
+								"x": 285,
+								"y": 172
+							},
+							"cachedPins":
+							{
+								"7338193F4470B475DB29ABBDC20890E3": 59,
+								"9D9E44284A17C30C9D2CAAB909577D3A": 90,
+								"D26A70E8440A8095A4E3E99E6B340343": 120,
+								"24DD4E634D776AFDBB3EB0882877C01A": 152,
+								"65B08B1643337EA3F2DA9E80A9008B25": 59
+							}
+						},
+						"E9AD19C04A1CA7354EB13A958D7D0253":
+						{
+							"cachedNodeSize":
+							{
+								"x": 160,
+								"y": 38
+							},
+							"cachedPins":
+							{
+								"E900635146F16396C62DC19FA8431381": 19
+							}
+						},
+						"FF790CCC416D81526DAA3BAD31B9644F":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 38
+							},
+							"cachedPins":
+							{
+								"458CA0A5496E28122A6B2CB70CE56C46": 19
+							}
+						}
+					}
+				}
+			}
 		}
 	},
 	"bookmarkedFolders": [],
