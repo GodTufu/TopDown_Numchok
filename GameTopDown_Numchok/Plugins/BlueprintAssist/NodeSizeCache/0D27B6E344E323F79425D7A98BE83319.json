@@ -2630,62 +2630,6 @@
 				}
 			}
 		},
-		"/Temp/Untitled_1":
-		{
-			"graphData":
-			{
-				"6D5D89AE42BD79D9D5535B80C4B516A6":
-				{
-					"nodeData":
-					{
-						"E9E495164BE88AAC04F6238FF7CBA038":
-						{
-							"cachedNodeSize":
-							{
-								"x": 158,
-								"y": 65
-							},
-							"cachedPins":
-							{
-								"56C2367A489DEFAEEC4B819994BA85A2": 13.5,
-								"B8C60361489D0420A2B771BB6B5B4806": 46
-							}
-						},
-						"D5DED4B140501333AC4E83B62C7429D7":
-						{
-							"cachedNodeSize":
-							{
-								"x": 179,
-								"y": 127
-							},
-							"cachedPins":
-							{
-								"7606833A461364203939C09E2F34B295": 59,
-								"28F8A21245936DA956A8728E872DD971": 90,
-								"EBB44EE94C5310F0663C81B4D26CC796": 23,
-								"6E5E399A43D9C4752D5AA0AA265B847A": 59
-							}
-						},
-						"81E577B44C4B94043ABCD0A24D9951B0":
-						{
-							"cachedNodeSize":
-							{
-								"x": 301,
-								"y": 146
-							},
-							"cachedPins":
-							{
-								"7BF3F08A491A5B42BC9C449C00ECFE65": 43,
-								"1D6464124678831BE97864BB4764B0E6": 86,
-								"4B2D990E496FAF36BC1D09B2F94D1E31": 128,
-								"342764964621C1418D8F9195A5D896E7": 43,
-								"05416FEE4EB10FAA5A85EAA9F3478F50": 74
-							}
-						}
-					}
-				}
-			}
-		},
 		"/Game/Widget/WBP_Menu":
 		{
 			"graphData":
@@ -3002,126 +2946,35 @@
 				}
 			}
 		},
+		"/Game/BP_Object/BP_NPC":
+		{
+			"graphData":
+			{
+				"36157769461A7D93CE40B087F7091989":
+				{
+					"nodeData":
+					{
+					}
+				}
+			}
+		},
 		"/Engine/Transient":
 		{
 			"graphData":
 			{
-				"E0C90B574F52C8E5DB10AE8B52E99DDA":
-				{
-					"nodeData":
-					{
-						"7959229E471854C364BCF3B7AA8FD667":
-						{
-							"cachedNodeSize":
-							{
-								"x": 162,
-								"y": 630
-							},
-							"cachedPins":
-							{
-								"1FA42C124CCE865F17061EAB54BEEFD1": 42,
-								"5B5E181846913132A4C1E7B70FF6277C": 72,
-								"110FD6644D12B03C148D1F883D7FD9F4": 102,
-								"FED039C6499A170C151E18A5587BC9E8": 132,
-								"DDBE74E543F047017459B7902A87732C": 161.99998474121094,
-								"0511E4724698819FC577498F0968890E": 191.99998474121094,
-								"487FBC274F7B2C891CC1F58FC84A7312": 221.99998474121094,
-								"399E533D4C3419889F6FFCA41E5260EF": 251.99998474121094,
-								"B739BB354285E715B32A8A84726EF59F": 282,
-								"233A6E7A4066ADF021E02EBE3346E963": 312,
-								"A1EE2ABD470908F4485303B80F618EF9": 342,
-								"AA100AF04FE21D3A6407E0906F91328C": 372,
-								"46F1C2A74EB078A28A805896D2AECDF2": 402,
-								"E2CDF9FE45E5589202EA348A49893DBB": 432,
-								"5D9DD09E43DDA47F0387D4B126185122": 462,
-								"538BE56E4ED488B23FFB2781AAB2549D": 492,
-								"06175F8D49FE310DB747DDBFB62509D5": 522,
-								"44A09EFC48B874D4CCB4C0AF92F39F4B": 552,
-								"96BA88A74A440894DF4F0FA9B24262B0": 582,
-								"9D88AC5F46BE39A3C8CEE28356C3FA6F": 612
-							}
-						},
-						"695597B74D47A44DB08EB681CC44D414":
-						{
-							"cachedNodeSize":
-							{
-								"x": 136.39999389648438,
-								"y": 65
-							},
-							"cachedPins":
-							{
-								"9E4A0CB44F55D0E9EAAF30A73582B17A": 45.5,
-								"E216155440F9B7E8FCE5798C69148CAB": 43
-							}
-						},
-						"43CBBBD54F93CDE58549B892D0234DE5":
-						{
-							"cachedNodeSize":
-							{
-								"x": 106,
-								"y": 74
-							},
-							"cachedPins":
-							{
-								"D6D3F5F04F5AE2DDA6489BB9B28E583B": 57
-							}
-						},
-						"51409FDE4B6A8276A85CA1AD6D151371":
-						{
-							"cachedNodeSize":
-							{
-								"x": 76,
-								"y": 60
-							},
-							"cachedPins":
-							{
-								"37241BBE4C3B51DE2CD727813120CDC1": 43,
-								"938DCF9F4B0FC86673DC6E9ADC4072CA": 43
-							}
-						},
-						"FC93756749B9BEFBD80FA0B53A70F684":
-						{
-							"cachedNodeSize":
-							{
-								"x": 95,
-								"y": 90
-							},
-							"cachedPins":
-							{
-								"F0BC3C9D424D265958FD5386234E3CCC": 43,
-								"E4AD92CB4AAF0B70C914488206EA83EE": 73,
-								"3890DBF946CD1A8D5C5D55AB374453DD": 43
-							}
-						},
-						"09F0198C46163FDC30F772B22EB9F89F":
-						{
-							"cachedNodeSize":
-							{
-								"x": 76,
-								"y": 79
-							},
-							"cachedPins":
-							{
-								"EFEF9A78476C2512C4F2AEA5C3D4E0F1": 43,
-								"E5D5FD484193DC054E9274B986D4A084": 14,
-								"41403DE74059CBCA453817B1F2644433": 43
-							}
-						}
-					}
-				},
-				"ED48E2CD4E74E4295EB41F9FC16A9D2C":
+				"A4EFF806479FC657BA3CD9A2686A8B80":
 				{
 					"nodeData":
 					{
 					}
 				},
-				"7BFB738940266352ADFD0C9B8FBEC4D7":
+				"B12040D94D10E1EB881E73A4FA502DAD":
 				{
 					"nodeData":
 					{
 					}
 				},
-				"B257689147CEE72D042F818D6B9509D5":
+				"D23DB41C4CE1AD04C34111949B37E053":
 				{
 					"nodeData":
 					{
