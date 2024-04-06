@@ -577,6 +577,18 @@
 					}
 				}
 			}
+		},
+		"/Game/ThirdPerson/Maps/ThirdPersonMap":
+		{
+			"graphData":
+			{
+				"998E8578484BC85083954BAD4B51BE1E":
+				{
+					"nodeData":
+					{
+					}
+				}
+			}
 		}
 	},
 	"bookmarkedFolders": [],
