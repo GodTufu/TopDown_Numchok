@@ -499,6 +499,20 @@
 								"F00522994B32E1303FF2BF9CE0364A33": 76.5,
 								"7B2F1B1F49CC79D209AAE8A4649F1CF7": 43
 							}
+						},
+						"A889A8EC4B8CA7C73335419FBF5B6FA6":
+						{
+							"cachedNodeSize":
+							{
+								"x": 230.39999389648438,
+								"y": 97
+							},
+							"cachedPins":
+							{
+								"B28AFCD1447AA81E312AC2ADDFE14370": 43,
+								"F00522994B32E1303FF2BF9CE0364A33": 76.5,
+								"7B2F1B1F49CC79D209AAE8A4649F1CF7": 43
+							}
 						}
 					}
 				}
